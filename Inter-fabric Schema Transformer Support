@@ -1,0 +1,58 @@
+
+# 1. Introduction
+
+
+# 2. Problem statement
+
+# 3. Proposed solution
+* 
+* 
+
+## 3.1 Alternatives considered
+
+## 3.2 API schema changes
+
+## 3.3 User workflow impact
+
+## 3.4 UI changes
+
+## 3.5 Notification impact
+
+# 4. Implementation
+
+## 4.1 vRouter and vRouter-DPDK
+
+##4.2 vRouter Agent
+
+##4.3 Control plane C++ services
+
+##4.4 Configuration node services
+
+##4.5 Analytics and web ui
+
+##4.6 Miscellaneous
+
+
+# 5. Performance and scaling impact
+## 5.1 API and control plane
+None
+
+## 5.2 Forwarding performance
+
+# 6. Upgrade
+
+# 7. Deprecations
+None
+
+# 8. Dependencies
+No dependencies
+
+# 9. Testing
+## 9.1 Unit tests
+## 9.2 Dev tests
+None
+## 9.3 System tests
+
+# 10. Documentation Impact
+
+# 11. References
